@@ -39,7 +39,7 @@ export function SiteHeader() {
               </Link>
             ))}
             <Button asChild className="bg-accent hover:bg-accent/90 text-accent-foreground">
-              <Link target="_blank" href="poolzilla.com/">Shop Now</Link>
+              <Link target="_blank" href="https://poolzilla.com">Shop Now</Link>
             </Button>
           </nav>
 
